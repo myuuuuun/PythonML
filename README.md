@@ -8,5 +8,9 @@ Hello Machine Learning!
 * diadochos
 * [myuuuuun](http://nbviewer.jupyter.org/github/myuuuuun/PythonML/blob/master/myuuuuun/Chapter2.ipynb)
 
+## Chapter3 Notebooks
+
+* [myuuuuun](http://nbviewer.jupyter.org/github/myuuuuun/PythonML/blob/master/myuuuuun/Chapter3.ipynb)
+
 ## References
 [python-machine-learning-book/code/](https://github.com/rasbt/python-machine-learning-book/tree/master/code)
